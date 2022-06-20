@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _issuper - check parameter as an uppercase char
+ * _issuper - check if parameter is nn uppercase char
  * @c: input char
  * Return: 1 if uppercase char. 0 otherwise
  */
